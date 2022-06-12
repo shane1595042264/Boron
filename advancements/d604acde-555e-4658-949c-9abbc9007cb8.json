@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2022-06-12 10:33:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2022-06-06 19:04:25 -0400"
@@ -686,6 +692,7 @@
       "minecraft:piglin_brute": "2022-06-06 18:29:13 -0400",
       "minecraft:spider": "2022-06-06 17:44:57 -0400",
       "minecraft:creeper": "2022-06-06 17:48:17 -0400",
+      "minecraft:slime": "2022-06-12 10:06:47 -0400",
       "minecraft:husk": "2022-06-07 11:57:03 -0400",
       "minecraft:shulker": "2022-06-07 10:32:33 -0400",
       "minecraft:piglin": "2022-06-09 17:30:32 -0400",
@@ -827,6 +834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2022-06-12 09:29:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2022-06-06 18:15:44 -0400"
@@ -950,6 +963,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2022-06-08 07:36:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-06-12 10:06:50 -0400"
     },
     "done": true
   },
@@ -1301,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-06-12 10:06:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-06-06 17:40:33 -0400"
@@ -1496,6 +1521,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2022-06-12 08:12:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2022-06-06 19:04:25 -0400"
@@ -1511,6 +1542,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-06-08 22:41:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-06-12 09:29:22 -0400"
     },
     "done": true
   },
@@ -1908,7 +1945,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-06-12 09:32:12 -0400",
       "apple": "2022-06-10 10:56:19 -0400",
+      "cooked_cod": "2022-06-12 10:14:50 -0400",
       "mutton": "2022-06-06 17:48:41 -0400",
       "bread": "2022-06-06 17:49:37 -0400",
       "golden_apple": "2022-06-07 11:23:15 -0400",
@@ -1953,6 +1992,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-06-06 18:33:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-06-12 09:29:22 -0400"
     },
     "done": true
   },
@@ -2616,6 +2661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2022-06-12 10:38:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2022-06-06 17:38:46 -0400"
@@ -2832,6 +2883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-06-12 10:06:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-06-06 17:23:56 -0400"
@@ -2961,6 +3018,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-06-08 22:40:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-06-12 10:31:44 -0400"
     },
     "done": true
   },
