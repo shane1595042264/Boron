@@ -1686,6 +1686,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-07-01 22:17:21 -0400",
       "minecraft:eroded_badlands": "2022-06-07 11:54:11 -0400",
       "minecraft:birch_forest": "2022-06-20 17:43:00 -0400",
       "minecraft:wooded_badlands": "2022-06-06 17:33:03 -0400",
@@ -1693,10 +1694,14 @@
       "minecraft:badlands": "2022-06-06 17:32:42 -0400",
       "minecraft:savanna_plateau": "2022-06-18 06:46:01 -0400",
       "minecraft:beach": "2022-06-06 17:37:52 -0400",
+      "minecraft:dark_forest": "2022-07-01 22:12:34 -0400",
+      "minecraft:stony_peaks": "2022-07-01 22:19:46 -0400",
       "minecraft:sparse_jungle": "2022-06-06 17:22:47 -0400",
       "minecraft:lukewarm_ocean": "2022-06-06 17:24:16 -0400",
       "minecraft:river": "2022-06-06 17:27:38 -0400",
       "minecraft:stony_shore": "2022-06-06 17:24:13 -0400",
+      "minecraft:dripstone_caves": "2022-07-01 23:52:51 -0400",
+      "minecraft:swamp": "2022-07-02 00:08:26 -0400",
       "minecraft:forest": "2022-06-06 17:39:28 -0400",
       "minecraft:lush_caves": "2022-06-06 18:53:44 -0400",
       "minecraft:desert": "2022-06-06 17:27:41 -0400",
@@ -1704,6 +1709,9 @@
       "minecraft:ocean": "2022-06-20 12:41:42 -0400",
       "minecraft:warm_ocean": "2022-06-06 17:25:41 -0400",
       "minecraft:deep_lukewarm_ocean": "2022-06-06 17:24:25 -0400",
+      "minecraft:old_growth_birch_forest": "2022-07-01 22:12:32 -0400",
+      "minecraft:deep_dark": "2022-07-01 23:54:28 -0400",
+      "minecraft:meadow": "2022-07-01 22:18:14 -0400",
       "minecraft:savanna": "2022-06-06 17:39:43 -0400",
       "minecraft:plains": "2022-06-06 17:22:35 -0400"
     },
@@ -2927,6 +2935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2022-07-01 22:13:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2022-06-10 12:38:21 -0400"
@@ -3080,6 +3094,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2022-06-08 06:08:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2022-07-01 23:35:17 -0400"
     },
     "done": true
   },
