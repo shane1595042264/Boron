@@ -1743,6 +1743,7 @@
     "criteria": {
       "minecraft:mushroom_fields": "2022-07-02 20:02:09 -0400",
       "minecraft:taiga": "2022-07-01 22:17:21 -0400",
+      "minecraft:deep_ocean": "2022-07-08 13:02:15 -0400",
       "minecraft:eroded_badlands": "2022-06-07 11:54:11 -0400",
       "minecraft:birch_forest": "2022-06-20 17:43:00 -0400",
       "minecraft:wooded_badlands": "2022-06-06 17:33:03 -0400",
@@ -2043,9 +2044,10 @@
       "minecraft:crimson_forest": "2022-06-06 18:04:20 -0400",
       "minecraft:nether_wastes": "2022-06-06 17:54:05 -0400",
       "minecraft:soul_sand_valley": "2022-06-06 18:14:12 -0400",
-      "minecraft:warped_forest": "2022-07-02 20:17:43 -0400"
+      "minecraft:warped_forest": "2022-07-02 20:17:43 -0400",
+      "minecraft:basalt_deltas": "2022-07-08 13:31:22 -0400"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
