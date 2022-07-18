@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2022-07-18 07:00:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2022-06-08 21:37:07 -0400"
@@ -1443,6 +1449,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2022-06-16 21:21:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-07-18 07:00:51 -0400"
     },
     "done": true
   },
@@ -2704,6 +2716,7 @@
       "golden_apple": "2022-06-07 11:23:15 -0400",
       "rotten_flesh": "2022-06-06 17:49:14 -0400",
       "suspicious_stew": "2022-06-06 17:32:08 -0400",
+      "glow_berries": "2022-07-18 06:56:06 -0400",
       "golden_carrot": "2022-06-07 11:26:13 -0400",
       "beetroot": "2022-06-09 16:41:26 -0400",
       "cooked_rabbit": "2022-06-20 17:04:40 -0400",
