@@ -1001,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2022-07-27 19:31:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2022-06-07 10:29:51 -0400"
@@ -1495,7 +1501,8 @@
     "criteria": {
       "minecraft:turtle": "2022-07-20 08:27:08 -0400",
       "minecraft:sheep": "2022-06-13 17:29:46 -0400",
-      "minecraft:cow": "2022-06-20 09:45:07 -0400"
+      "minecraft:cow": "2022-06-20 09:45:07 -0400",
+      "minecraft:bee": "2022-07-27 00:54:23 -0400"
     },
     "done": false
   },
@@ -2495,6 +2502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-07-27 00:50:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-06-06 18:33:43 -0400"
@@ -3485,6 +3498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2022-07-27 00:51:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2022-07-25 19:24:18 -0400"
@@ -3650,6 +3669,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2022-06-08 06:27:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2022-07-27 00:51:23 -0400"
     },
     "done": true
   },
@@ -4675,6 +4700,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2022-06-18 09:40:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-07-27 00:50:13 -0400"
     },
     "done": true
   },
