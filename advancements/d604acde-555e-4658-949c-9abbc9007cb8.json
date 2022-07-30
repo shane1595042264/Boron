@@ -761,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:temperate": "2022-07-29 19:26:42 -0400"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2022-06-06 17:23:12 -0400"
@@ -1500,6 +1506,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:turtle": "2022-07-20 08:27:08 -0400",
+      "minecraft:frog": "2022-07-29 19:35:08 -0400",
       "minecraft:sheep": "2022-06-13 17:29:46 -0400",
       "minecraft:cow": "2022-06-20 09:45:07 -0400",
       "minecraft:bee": "2022-07-27 00:54:23 -0400"
@@ -2439,6 +2446,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-06-06 17:23:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": "2022-07-29 19:43:55 -0400"
     },
     "done": true
   },
@@ -3410,6 +3423,7 @@
       "minecraft:cold_ocean": "2022-07-02 21:00:59 -0400",
       "minecraft:forest": "2022-06-06 17:39:28 -0400",
       "minecraft:lush_caves": "2022-06-06 18:53:44 -0400",
+      "minecraft:frozen_ocean": "2022-07-29 19:39:51 -0400",
       "minecraft:desert": "2022-06-06 17:27:41 -0400",
       "minecraft:jungle": "2022-06-20 12:40:31 -0400",
       "minecraft:ocean": "2022-06-20 12:41:42 -0400",
@@ -3471,6 +3485,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2022-07-25 19:28:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2022-07-29 12:22:03 -0400"
     },
     "done": true
   },
@@ -3838,6 +3858,7 @@
     "criteria": {
       "cooked_porkchop": "2022-06-12 09:32:12 -0400",
       "cooked_mutton": "2022-06-18 07:05:21 -0400",
+      "cooked_beef": "2022-07-29 20:08:37 -0400",
       "porkchop": "2022-06-19 11:45:54 -0400",
       "apple": "2022-06-10 10:56:19 -0400",
       "cooked_cod": "2022-06-12 10:14:50 -0400",
