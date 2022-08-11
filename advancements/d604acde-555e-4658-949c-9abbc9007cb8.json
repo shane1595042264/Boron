@@ -3890,6 +3890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2022-08-11 09:04:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-06-08 06:37:29 -0400"
