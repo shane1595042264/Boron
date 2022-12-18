@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-12-17 07:14:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2022-06-19 21:49:20 -0400"
@@ -2629,6 +2635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2022-12-17 07:14:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-06-06 17:28:23 -0400"
@@ -2734,6 +2746,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2022-06-20 13:20:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2022-12-17 07:14:57 -0500"
     },
     "done": true
   },
@@ -2848,6 +2866,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2022-06-06 17:30:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-12-17 07:14:57 -0500"
     },
     "done": true
   },
@@ -4197,6 +4221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2022-12-17 07:14:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-06-08 06:37:29 -0400"
@@ -4644,6 +4674,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-06-06 18:19:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-12-17 07:14:57 -0500"
     },
     "done": true
   },
